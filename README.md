@@ -1,1 +1,1 @@
-# kgd
+print("Kgd")
